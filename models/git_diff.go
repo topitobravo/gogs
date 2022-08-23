@@ -15,9 +15,9 @@ import (
 
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/gogs/modules/git"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/process"
+	"github.com/topitobravo/gogs/modules/git"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/process"
 )
 
 // Diff line types.

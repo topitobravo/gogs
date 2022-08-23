@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/gogits/gogs/modules/asn1-ber"
+	"github.com/topitobravo/gogs/modules/asn1-ber"
 )
 
 // LDAP Application Codes

@@ -17,7 +17,7 @@ import (
 
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/log"
 )
 
 func handleServerConn(keyId string, chans <-chan ssh.NewChannel) {

@@ -17,10 +17,10 @@ import (
 
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/git"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/git"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 type UserType int

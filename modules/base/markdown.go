@@ -15,7 +15,7 @@ import (
 
 	"github.com/russross/blackfriday"
 
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 func isletter(c byte) bool {

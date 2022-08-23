@@ -11,8 +11,8 @@ import (
 	"net/smtp"
 	"strings"
 
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 type Message struct {

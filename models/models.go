@@ -14,7 +14,7 @@ import (
 	"github.com/go-xorm/xorm"
 	_ "github.com/lib/pq"
 
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 var (

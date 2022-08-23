@@ -19,7 +19,7 @@ import (
 	"github.com/Unknwon/goconfig"
 	"github.com/macaron-contrib/session"
 
-	"github.com/gogits/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/log"
 	// "github.com/gogits/gogs-ng/modules/ssh"
 )
 

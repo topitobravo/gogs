@@ -8,10 +8,10 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/gogits/gogs/modules/auth/apiv1"
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/middleware"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/auth/apiv1"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 const DOC_URL = "http://gogs.io/docs"

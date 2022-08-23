@@ -11,7 +11,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/gogits/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/log"
 )
 
 var (

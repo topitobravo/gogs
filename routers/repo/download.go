@@ -8,8 +8,8 @@ import (
 	"io"
 	"path"
 
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/middleware"
 )
 
 func SingleDownload(ctx *middleware.Context) {

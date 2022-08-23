@@ -12,10 +12,10 @@ import (
 
 	"github.com/Unknwon/macaron"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/git"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/git"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 func RepoAssignment(redirect bool, args ...bool) macaron.Handler {

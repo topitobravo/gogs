@@ -7,11 +7,11 @@ package routers
 import (
 	"fmt"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/middleware"
-	"github.com/gogits/gogs/modules/setting"
-	"github.com/gogits/gogs/routers/user"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/modules/setting"
+	"github.com/topitobravo/gogs/routers/user"
 )
 
 const (

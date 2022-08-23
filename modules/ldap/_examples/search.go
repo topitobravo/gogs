@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gogits/gogs/modules/ldap"
+	"github.com/topitobravo/gogs/modules/ldap"
 )
 
 var (

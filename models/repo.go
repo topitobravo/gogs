@@ -23,11 +23,11 @@ import (
 	"github.com/Unknwon/cae/zip"
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/git"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/process"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/git"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/process"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 const (

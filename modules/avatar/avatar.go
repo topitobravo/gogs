@@ -32,7 +32,7 @@ import (
 
 	"github.com/nfnt/resize"
 
-	"github.com/gogits/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/log"
 )
 
 var (

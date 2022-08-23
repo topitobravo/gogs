@@ -14,7 +14,7 @@ import (
 	"github.com/Unknwon/com"
 	"github.com/go-xorm/xorm"
 
-	"github.com/gogits/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/base"
 )
 
 var (

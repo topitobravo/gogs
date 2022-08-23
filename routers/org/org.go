@@ -5,12 +5,12 @@
 package org
 
 import (
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/auth"
-	"github.com/gogits/gogs/modules/base"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/middleware"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/auth"
+	"github.com/topitobravo/gogs/modules/base"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 const (

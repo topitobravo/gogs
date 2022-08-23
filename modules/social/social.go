@@ -14,9 +14,9 @@ import (
 
 	oauth "github.com/gogits/oauth2"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 type BasicUserInfo struct {

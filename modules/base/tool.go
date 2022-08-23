@@ -21,7 +21,7 @@ import (
 	"github.com/Unknwon/com"
 	"github.com/Unknwon/i18n"
 
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 // Encode string to md5 hex value

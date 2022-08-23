@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/middleware"
-	"github.com/gogits/gogs/modules/setting"
-	"github.com/gogits/gogs/modules/social"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/social"
 )
 
 func extractPath(next string) string {

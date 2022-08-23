@@ -7,8 +7,8 @@ package v1
 import (
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/middleware"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/middleware"
 )
 
 type user struct {

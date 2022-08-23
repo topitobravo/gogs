@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gogits/gogs/modules/mahonia"
+	"github.com/topitobravo/gogs/modules/mahonia"
 )
 
 // An iconv workalike using mahonia.

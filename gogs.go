@@ -13,10 +13,9 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	"github.com/gogits/gogs/cmd"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/cmd"
+	"github.com/topitobravo/gogs/modules/setting"
 )
-
 const APP_VER = "0.5.5.1010 Beta"
 
 func init() {

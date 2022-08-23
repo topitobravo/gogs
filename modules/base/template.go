@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gogits/gogs/modules/mahonia"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/mahonia"
+	"github.com/topitobravo/gogs/modules/setting"
 	"github.com/saintfish/chardet"
 )
 

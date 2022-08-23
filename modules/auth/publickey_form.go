@@ -8,7 +8,7 @@ import (
 	"github.com/Unknwon/macaron"
 	"github.com/macaron-contrib/i18n"
 
-	"github.com/gogits/gogs/modules/middleware/binding"
+	"github.com/topitobravo/gogs/modules/middleware/binding"
 )
 
 type AddSSHKeyForm struct {

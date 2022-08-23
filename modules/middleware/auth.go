@@ -11,7 +11,7 @@ import (
 	"github.com/Unknwon/macaron"
 	"github.com/macaron-contrib/csrf"
 
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 type ToggleOptions struct {

@@ -12,10 +12,10 @@ import (
 	"github.com/macaron-contrib/i18n"
 	"github.com/macaron-contrib/session"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/middleware/binding"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/middleware/binding"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 // SignedInId returns the id of signed in user.

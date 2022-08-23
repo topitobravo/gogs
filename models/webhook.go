@@ -10,10 +10,10 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/gogits/gogs/modules/httplib"
-	"github.com/gogits/gogs/modules/log"
-	"github.com/gogits/gogs/modules/setting"
-	"github.com/gogits/gogs/modules/uuid"
+	"github.com/topitobravo/gogs/modules/httplib"
+	"github.com/topitobravo/gogs/modules/log"
+	"github.com/topitobravo/gogs/modules/setting"
+	"github.com/topitobravo/gogs/modules/uuid"
 )
 
 var (

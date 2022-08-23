@@ -14,8 +14,8 @@ import (
 	"github.com/Unknwon/cae/zip"
 	"github.com/codegangsta/cli"
 
-	"github.com/gogits/gogs/models"
-	"github.com/gogits/gogs/modules/setting"
+	"github.com/topitobravo/gogs/models"
+	"github.com/topitobravo/gogs/modules/setting"
 )
 
 var CmdDump = cli.Command{
